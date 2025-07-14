@@ -1,4 +1,10 @@
 -----------------------------
+v3.0.6
+
+- Fixed compiler error related to ScreenCapture class in webgl
+- plugin code added to take screenshot and download it from webgl
+
+-----------------------------
 v3.0.5
 
 - Fixed small issue with Safe Area not being updated when the screen resolution changes.
